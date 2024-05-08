@@ -3,7 +3,7 @@ import React from "react";
 const Projects = () => {
   return (
     <section className="bg-[#1b1b1b] py-12 px-10">
-      <h1 className="text-center md:m-14 py-4 max-md:text-[3rem] text-white font-sequel tracking-wider">
+      <h1 className="text-center md:m-14 py-4 max-md:text-[2.5rem] text-white font-sequel tracking-wider">
         PROJECTS
       </h1>
       <div className="flex max-md:flex-col gap-6 justify-around">
