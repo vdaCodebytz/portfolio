@@ -41,12 +41,12 @@ const Header = () => {
           </li>
           <li>
             <a
-              href="https://docs.google.com/document/d/1MuEteoCMaXFjidg-cwIs8CZ3pC-X0YCezuDsIy0Gv-w/edit?usp=sharing"
+              href="https://www.dropbox.com/scl/fi/kfdcn7wusvzcfq2knq39d/Resume.pdf?rlkey=4r2xh2c779yprlx0hqgp6lgej&st=s7y25x02&dl=1"
               className="flex gap-2 text-black items-center"
               target="_blank"
             >
               <img src="cv-icon.svg" alt="" width={22} />
-              <p className="text-lg hidden md:block">CV</p>
+              <p className="text-lg hidden md:block">Resume</p>
             </a>
           </li>
         </ul>
