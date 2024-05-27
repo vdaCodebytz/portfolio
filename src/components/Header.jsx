@@ -41,7 +41,7 @@ const Header = () => {
           </li>
           <li>
             <a
-              href="https://www.dropbox.com/scl/fi/kfdcn7wusvzcfq2knq39d/Resume.pdf?rlkey=4r2xh2c779yprlx0hqgp6lgej&st=s7y25x02&dl=1"
+              href="https://www.dropbox.com/scl/fi/v9t6il9vhazqc2aekgncj/Resume.pdf?rlkey=d9xusa3v2jlxlcswigkt2denu&st=evpvwrhd&dl=1"
               className="flex gap-2 text-black items-center"
               target="_blank"
             >
