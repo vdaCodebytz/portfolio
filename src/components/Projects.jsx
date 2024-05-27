@@ -92,14 +92,14 @@ const Projects = () => {
             </p>
             <div className="flex gap-6 ">
               <a
-                href="https://blog-app-nextjs-seven.vercel.app/"
+                href="https://atlas-blog-three.vercel.app/"
                 className="inline-flex flex-1 justify-center gap-2 items-center px-3 py-2 text-md font-medium text-center text-black bg-slate-900 rounded-lg hover:bg-slate-400 focus:outline-none mt-4 focus:ring-slate-300 dark:bg-slate-300 dark:hover:bg-slate-400 dark:focus:ring-slate-300"
               >
                 Live Demo
                 <img src="internet.svg" alt="" width={20} />
               </a>
               <a
-                href="https://github.com/vdaCodebytz/blog-app-nextjs"
+                href="https://github.com/vishnud05/atlas-blog"
                 className="inline-flex flex-1 justify-center gap-2 items-center px-3 py-2 text-md font-medium text-center text-white bg-slate-900 rounded-lg hover:bg-slate-400 focus:ring-4 focus:outline-none mt-4 focus:ring-slate-300 dark:bg-slate-700 dark:hover:bg-slate-600 dark:focus:ring-slate-300"
               >
                 <p>Source Code</p>
